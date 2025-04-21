@@ -26,6 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
 ###
 
 <div align="left">
@@ -42,8 +48,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{silaspires}/count.svg" /></p> 
+<br></div>
 
 ###
