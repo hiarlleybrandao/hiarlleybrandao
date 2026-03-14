@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Hiarlley e sou QA ENGINEER!</h2>
+<h2 align="left">Olá, me chamo Hiarlley e sou QA Engineer!</h2>
 
 ###
 
