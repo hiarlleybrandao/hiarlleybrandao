@@ -10,16 +10,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZnYWtzamswMmNpbGFjNmdsZmlydDF3d2NtbW5mczBkYWpyeDM5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A5yOQJ3X3y0Xyd476S/giphy.gif"  />
 
 ###
@@ -50,7 +40,7 @@
   <a href="https://discord.com/users/SEU_ID_AQUI" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:hiarlleybrandao@gmail.com" target="_blank">
+  <a href="mailto:hiarlleybrandao@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hiarlleybrandao" target="_blank">
@@ -61,6 +51,10 @@
 ###
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/hiarlleybrandao/count.svg" /></p> 
-<br></div>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hiarlleybrandao&color=42b883&style=flat-square" alt="Visitors Count" />
+  </p> 
+  <br>
+</div>
