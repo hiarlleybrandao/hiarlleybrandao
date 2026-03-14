@@ -25,7 +25,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachejmeter/apachejmeter-original.svg" height="35" alt="jmeter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="sql logo"  />
 </div>
 
 <div align=center>
@@ -35,7 +37,7 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/users/devhiarlley_" target="_blank">
+  <a href="https://discord.com/users/hiarlleybrandao" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:hiarlleybrandao@gmail.com" target="_blank">
